@@ -5,8 +5,6 @@
  */
 package Exercicios.Conteudo2.Exercicio1;
 
-import Exemplos.Agenda.*;
-
 /**
  *
  * @author marco

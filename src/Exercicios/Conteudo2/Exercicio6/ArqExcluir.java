@@ -5,8 +5,6 @@
  */
 package Exercicios.Conteudo2.Exercicio6;
 
-import Exercicios.Conteudo2.Exercicio4.*;
-import Exercicios.Conteudo2.Exercicio1.*;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileNotFoundException;
